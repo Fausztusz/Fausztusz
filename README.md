@@ -1,4 +1,4 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a Laravel app to manage LDAP users
-- 🌱 I’m currently learning PHP Laravel
+- 🌱 I’m a full stack web developer specialized in Laravel and Vue.js
+  
